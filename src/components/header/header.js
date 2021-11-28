@@ -8,7 +8,7 @@ const Header = () => {
                     Xpensr <i class="fi fi-rr-credit-card"></i>
                 </div>
                 <div className='header-button'>
-                    <a href='https://github.com' target='_blank' rel='noopener noreferrer' >
+                    <a href=https://github.com/ajaykumar1301/expense-list' target='_blank' rel='noopener noreferrer' >
                     <i class="devicon-github-original colored"></i>Star
                     </a>
                 </div>
